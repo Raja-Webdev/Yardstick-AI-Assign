@@ -1,0 +1,73 @@
+[
+  {
+    "amount": 1200,
+    "date": "2024-03-01T00:00:00Z",
+    "description": "March Rent Payment",
+    "category": "Rent",
+    "type": "expense"
+  },
+  {
+    "amount": 85.50,
+    "date": "2024-03-05T00:00:00Z",
+    "description": "Groceries at Whole Foods",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "amount": 45.30,
+    "date": "2024-03-10T00:00:00Z",
+    "description": "Gas Station",
+    "category": "Transportation",
+    "type": "expense"
+  },
+  {
+    {   
+    "amount": 4500,
+    "date": "2024-03-15T00:00:00Z",
+    "description": "Monthly Salary",
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "amount": 150,
+    "date": "2024-03-20T00:00:00Z",
+    "description": "Electricity Bill",
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "amount": 65.99,
+    "date": "2024-03-25T00:00:00Z",
+    "description": "Netflix Subscription",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "amount": 220,
+    "date": "2024-04-01T00:00:00Z",
+    "description": "April Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "amount": 75.40,
+    "date": "2024-04-05T00:00:00Z",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "amount": 4500,
+    "date": "2024-04-15T00:00:00Z",
+    "description": "Monthly Salary",
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "amount": 29.99,
+    "date": "2024-04-20T00:00:00Z",
+    "description": "Spotify Subscription",
+    "category": "Entertainment",
+    "type": "expense"
+  }
+]
