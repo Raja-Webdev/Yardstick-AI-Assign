@@ -1,6 +1,7 @@
 require("dotenv").config();
 const colors = require("colors");
 const express = require("express");
+const cors = require("cors");
 const connectDB = require("./src/config/db");
 const { notFound, errorHandler } = require("./src/middleware/errorMiddleware");
 const transactionRoutes = require("./src/routes/transactionRoutes");
@@ -14,6 +15,7 @@ const PORT = process.env.PORT || 5000;
 connectDB();
 
 // Middleware
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
